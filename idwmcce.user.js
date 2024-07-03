@@ -6,14 +6,14 @@
 // @description		kill minecraft.net netease mc popup
 // @description:zh	自动隐藏mc官网网易我的世界弹窗
 // @license			MIT
-// @downloadURL		https://raw.githubusercontent.com/XiaozhiSans/idwmcce/main/idwmcce.user.js
-// @updateURL		https://raw.githubusercontent.com/XiaozhiSans/idwmcce/main/idwmcce.user.js
+// @downloadURL		https://fastly.jsdelivr.net/gh/XiaozhiSans/idwmcce@latest/idwmcce.user.js
+// @updateURL		https://fastly.jsdelivr.net/gh/XiaozhiSans/idwmcce@latest/idwmcce.user.js
 // @author			XiaozhiSans
 // @homepage		https://xsawa.dev.tc/XiaozhiSans/
 // @supportURL		https://github.com/XiaozhiSans/idwmcce/issues
 // @match			*://*.minecraft.net/*
-// @icon			https://raw.githubusercontent.com/XiaozhiSans/idwmcce/main/icon.png
-// @icon64			https://raw.githubusercontent.com/XiaozhiSans/idwmcce/main/icon.webp
+// @icon			https://fastly.jsdelivr.net/gh/XiaozhiSans/idwmcce@main/icon.png
+// @icon64			https://fastly.jsdelivr.net/gh/XiaozhiSans/idwmcce@main/icon.webp
 // @run-at			document-end
 // @grant			none
 // ==/UserScript==
